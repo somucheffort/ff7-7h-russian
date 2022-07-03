@@ -8,6 +8,5 @@
 - `iros://Url/https$raw.githubusercontent.com/somucheffort/ff7-7h-russian/master/catalog.xml`.
 2. В **[Browse Catalog]** установи мод **Русификатор для 7H**
 
-# Changelog
-- 1.0: Полный перенос русификатора на 7H
-- 1.01: Исправлено имя Сефирота
+# Лицензия
+Перевод сделан **не мной, а FFRTT**, я лишь исправил пару вещей и сделал полную поддержку для 7th Heaven.
