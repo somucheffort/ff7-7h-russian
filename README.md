@@ -4,12 +4,8 @@
 # Установка
 Для работы русификатора нужен [7th Heaven](https://7thheaven.rocks/#download7h)
 
-- Скачай последнюю версию русификатора [здесь](https://github.com/somucheffort/ff7-7h-russian/releases)
-- Запусти .iro файл
-- Готово
-
-# Обновления
-В настройках 7th Heaven выбери [General Settings], добавь в [Catalog Subscriptions] ссылку: [еще не сделано].
+1. В настройках 7th Heaven выбери **[General Settings]**, добавь в **[Catalog Subscriptions]** ссылку: `iros://Url/https$github.com/somucheffort/ff7-7h-russian/blob/master/catalog.xml`.
+2. В **[Browse Catalog]** установи мод **Русификатор для 7H**
 
 # Changelog
 - 1.0: Полный перенос русификатора на 7H

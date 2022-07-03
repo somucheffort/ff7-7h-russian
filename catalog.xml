@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Catalog Name="somucheffort Catalog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+   <Mods>
+    <Mod>
+      <ID>fc1a9daf-c417-4207-86bf-f59aec311012</ID>  
+      <Author>FFRTT, so much effort</Author>
+      <Link></Link>
+      <LatestVersion>
+        <Link>http$github.com/somucheffort/ff7-7h-russian/releases/download/1.01/RussianLanguage.FF7.7H.v1.01.iro</Link>
+        <Version>1.01</Version>
+        <ReleaseDate>2022-07-02</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <ReleaseNotes>
+- 1.0: Полный перенос русификатора на 7H
+- 1.01: Исправлено имя Сефирота
+        </ReleaseNotes>
+        <DownloadSize>338775</DownloadSize>
+      </LatestVersion>
+      <Name>Русификатор для 7H</Name>
+      <Category>User Interface</Category>
+      <Description>
+Русификатор от FFRTT, поддержка 7H от so much effort
+отдельное спасибо: 
+- L@Zar0 за огромную помощь в hext
+- NiNoStyle за путь к Бастер мечу :)
+      </Description>
+    </Mod>
+  </Mods>
+</Catalog>
