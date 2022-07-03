@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>fc1a9daf-c417-4207-86bf-f59aec311012</ID>
+  <Name>Русификатор для 7H</Name>
+  <Author>FFRTT, so much effort</Author>
+  <Category>User Interface</Category>
+  <Version>1.01</Version>
+  <ReleaseDate>2022-07-02</ReleaseDate>
+  <Description>
+Русификатор от FFRTT, поддержка 7H от so much effort
+отдельное спасибо: 
+- L@Zar0 за огромную помощь в hext
+- NiNoStyle за путь к Бастер мечу :)
+  </Description>
+  <ReleaseNotes>
+- 1.0: Полный перенос русификатора на 7H
+- 1.01: Исправлено имя Сефирота
+  </ReleaseNotes>
+  
+  <Link>https://github.com/somucheffort/ff7-7h-russian</Link>
+  <DonationLink />
+  <FFNxConfig />
+  
+  <ModFolder Folder="00 - ff7.exe" ActiveWhen="ActiveTranslation = 1" />
+  <ModFolder Folder="01 - Media Files" ActiveWhen="ActiveTranslation = 1" />
+
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>ActiveTranslation</ID>
+    <Name>Включить русификатор?</Name>
+    <Description />
+    <Option Value="0" Name="Нет" PreviewFile="Off.png"/>
+    <Option Value="1" Name="Да" PreviewFile="On.png"/>
+  </ConfigOption>
+  
+  <Variables />
+</ModInfo>
